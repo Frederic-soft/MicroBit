@@ -1,0 +1,17 @@
+{
+    "name": "NeoPixelRainbow",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "microbit",
+    "targetVersion": "3.0.65",
+    "cloudSync": false,
+    "id": "491c5af5-8800-47b7-50df-9162c2ed3376",
+    "recentUse": 1624351458,
+    "modificationTime": 1624351458,
+    "path": "NeoPixelRainbow",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}

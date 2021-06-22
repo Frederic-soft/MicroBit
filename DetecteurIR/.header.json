@@ -1,0 +1,17 @@
+{
+    "name": "DetecteurIR",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "microbit",
+    "targetVersion": "3.0.65",
+    "cloudSync": false,
+    "id": "54f1a405-1313-4efa-1440-5a4b128595ed",
+    "recentUse": 1624351360,
+    "modificationTime": 1624351360,
+    "path": "DetecteurIR",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}

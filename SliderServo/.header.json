@@ -1,0 +1,17 @@
+{
+    "name": "SliderServo",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "microbit",
+    "targetVersion": "3.0.65",
+    "cloudSync": false,
+    "id": "d9fcc9bb-294c-4e7d-7806-6bf7fe248494",
+    "recentUse": 1624351477,
+    "modificationTime": 1624351477,
+    "path": "SliderServo",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}
