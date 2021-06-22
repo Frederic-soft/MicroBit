@@ -9,11 +9,11 @@ cercle.showColor(neopixel.colors(NeoPixelColors.White))
 basic.pause(500)
 cercle.showRainbow(1, 360)
 while (true) {
-    for (let index = 0; index < 361; index++) {
+    for (let index = 0; index <= 360; index++) {
         cercle.showRainbow(index + 1, index + 360)
         basic.pause(2)
     }
 }
-basic.forever(function on_forever() {
-    
+basic.forever(function () {
+	
 })
