@@ -48,14 +48,12 @@ radio.onReceivedValue(function (name, value) {
         x = 0
         y = 0
         reception = 1
-        soundExpression.happy.play()
         basic.clearScreen()
     }
     if (name == "STOP") {
         x = 0
         y = 0
         reception = 0
-        soundExpression.sad.play()
     }
 })
 let y = 0

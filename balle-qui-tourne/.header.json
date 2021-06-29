@@ -1,0 +1,16 @@
+{
+    "target": "microbit",
+    "targetVersion": "3.0.68",
+    "editor": "blocksprj",
+    "name": "balle qui tourne",
+    "meta": {},
+    "pubId": "",
+    "pubCurrent": false,
+    "id": "1bbb6aac-bd96-4203-aa0c-2f9953ff3e5a",
+    "recentUse": 1624529368,
+    "modificationTime": 1624529368,
+    "path": "balle-qui-tourne",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}

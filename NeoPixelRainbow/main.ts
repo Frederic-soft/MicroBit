@@ -1,4 +1,4 @@
-let cercle = neopixel.create(DigitalPin.P0, 12, NeoPixelMode.RGB)
+let cercle = neopixel.create(DigitalPin.P1, 12, NeoPixelMode.RGB)
 cercle.showColor(neopixel.colors(NeoPixelColors.Red))
 basic.pause(500)
 cercle.showColor(neopixel.colors(NeoPixelColors.Green))
@@ -14,6 +14,3 @@ while (true) {
         basic.pause(2)
     }
 }
-basic.forever(function () {
-	
-})
