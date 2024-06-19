@@ -1,0 +1,13 @@
+strip = neopixel.create(DigitalPin.P0, 12, NeoPixelMode.RGB)
+strip.show_color(neopixel.colors(NeoPixelColors.RED))
+basic.pause(500)
+strip.show_color(neopixel.colors(NeoPixelColors.GREEN))
+basic.pause(500)
+strip.show_color(neopixel.colors(NeoPixelColors.BLUE))
+basic.pause(500)
+strip.show_rainbow(1, 360)
+basic.pause(1000)
+while True:
+    strip.rotate(1)
+    strip.show()
+    basic.pause(100)
